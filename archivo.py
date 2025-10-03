@@ -29,7 +29,5 @@ def main_fronland():
     graficar_ventas(dias,ventas)
 main_fronland()
 
-
-print("fin del programa")
 print("fin del programa")
 print("fin del programa")               
